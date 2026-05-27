@@ -12,7 +12,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wanderleyvieira&theme=github-dark-blue&hide_border=falso&locale=pt_BR&short_numbers=falso)](https://git.io/streak-stats)
 
-### Tecnológias utilizadas em estudos e projetos:
+### Tecnológias utilizadas em estudos e projetos: 📚🤖
 
 ### Programação:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -25,6 +25,8 @@
 ### Ferramentas:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Virtual-Box](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-blue?style=for-the-badge&logo=network&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-darkblue?style=for-the-badge&logo=network&logoColor=white)
 
 ### Sistemas Operacionais:
 
