@@ -1,16 +1,17 @@
-## Hi there 👋
+## Seja Bem-Vindo ao meu Git-Hub 😁👋
 
-<!--
-**WanderleyVieira/WanderleyVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Um Pouco sobre mim: 🙋🏻‍♂️
 
-Here are some ideas to get you started:
+### Olá, Meu nome é  Wanderley, tenho 23 anos, sou de São Paulo-SP. Me considero uma pessoa muito dedicada, criativa, responsável, comunicativa e autodidata. Estou em busca de uma transição de carreira para a área da Tecnologia. Formado em Gestão da Tecnologia da Informação, atualmente estou graduando em Engenharia de Software. Sempre busco me atualizar com as tendências atuais que remetem ao mercado da tecnologia e gostaria muito de uma oportunidade para que eu possa demonstrar minha criatividade, pensamento analítico, tomada de decisões e conhecimentos que já venho adquirindo com os estudos. No meu Git Hub estarei armazenando projetos pessoais e da faculdade, sou apaixonado por tecnológia e conquistarei meus objetivos!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Contato**:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderley-vieira-fvvffvvf156/)
+
+
+### **Tecnológias** 
+<br>
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
