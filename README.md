@@ -8,6 +8,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderley-vieira-fvvffvvf156/)
+[![Currículo](https://img.shields.io/badge/Currículo-D6D6D6?style=for-the-badge&logo=&logoColor=white)](https://drive.google.com/file/d/1rhFuaiGh4isU-XCOo-ptwZFdm88lTf-9/view?usp=sharing)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wanderleyvieira&theme=github-dark-blue&hide_border=falso&locale=pt_BR&short_numbers=falso)](https://git.io/streak-stats)
 
