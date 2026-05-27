@@ -2,7 +2,7 @@
 
 **`Estudante de Tecnologia`**
 
-### Olá, Meu nome é  Wanderley, tenho 23 anos, sou de São Paulo-SP. Me considero uma pessoa muito dedicada, criativa, responsável, comunicativa e autodidata. Estou em busca de uma transição de carreira para a área da Tecnologia. Formado em Gestão da Tecnologia da Informação, atualmente estou graduando em Engenharia de Software. Sempre busco me atualizar com as tendências atuais que remetem ao mercado da tecnologia e gostaria muito de uma oportunidade para que eu possa demonstrar minha criatividade, pensamento analítico, tomada de decisões e conhecimentos que já venho adquirindo com os estudos. No meu Git Hub estarei armazenando projetos pessoais e da faculdade, sou apaixonado por tecnológia e conquistarei meus objetivos!
+### Olá, meu nome é Wanderley, tenho 23 anos e sou de São Paulo-SP. Sou apaixonado por tecnologia e me considero uma pessoa dedicada, criativa, responsável, comunicativa e autodidata. Atualmente, estou em transição de carreira para a área de Tecnologia da Informação. Sou formado em Gestão da Tecnologia da Informação e curso Engenharia de Software. Busco constantemente me atualizar sobre as tendências do mercado de tecnologia, dedicando-me diariamente aos estudos e ao desenvolvimento profissional. No meu GitHub, compartilho projetos pessoais e acadêmicos, demonstrando minha evolução prática na área.
 
 <br>
 
